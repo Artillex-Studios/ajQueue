@@ -45,7 +45,7 @@ public class QueueCommand extends BaseCommand {
 
     @Override
     public String getPermission() {
-        return null;
+        return "ajqueue.jqueue";
     }
 
     @Override
